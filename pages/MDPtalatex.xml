@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+
+    <titre>Aumônerie de l'École Normale Supérieure</titre>
+
+ 
+<texte>
+      <h2>Quelques documents en ligne</h2>
+      <br/>
+      <p align="center">
+       <img src="../talatex/tux/knight-tux.png" width="25%" />
+      </p>
+
+<form name="login">
+<!-- Username<input type="text" name="userid"/> -->
+Nom de la newsletter tala <input type="password" name="pswrd"/>
+<input type="button" onclick="check(this.form)" value="ENTRER"/>
+<input type="reset" value="Annuler"/>
+</form>
+<script language="javascript">
+function check(form)
+{
+if( form.pswrd.value == "e-chthus" | form.pswrd.value == "e-chtus" | 
+form.pswrd.value == "echthus" | form.pswrd.value == "echtus" | 
+<!--form.pswrd.value == -->
+form.pswrd.value == "E-chthus" | form.pswrd.value == "E-chtus" | 
+form.pswrd.value == "Echthus" | form.pswrd.value == "Echtus" |
+form.pswrd.value == "Ichthus" | form.pswrd.value == "Ichtus" |
+form.pswrd.value == "Iktus" | form.pswrd.value == "I-chtus" |
+form.pswrd.value == "I-chthus" ) 
+{
+window.open('../html/talatex.html')
+}
+else
+{
+alert("Error Password or Username")
+}
+}
+</script>
+
+<br/>
+
+<p>
+Pour accéder aux documents en ligne, insérez le nom de la newsletter de
+l'aumônerie. <b> Puis cliquez sur <ins>ENTRER</ins> en utilisant votre <ins><big>souris</big></ins></b>.
+Si vous souhaitez accéder aux document et que vous ne connaissez
+pas ce nom, contactez-nous à aumonerie[at] ens.fr.
+</p>
+
+<br/>
+
+
+<!-- Année 2020-2021 -->
+
+<!--
+      <h2> Année 2021-2022</h2>
+      <h3> Quelques documents relatifs aux conférences</h3>
+      <h4> Cycle sur ...</h4>
+
+<ul>
+<li> titre de la conférence par Prénom <span style="font-variant:small-caps"> Nom  </span>(, éventuellement un ajout : (o.p.), de l'académie,...).</li>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+
+</ul>
+-->
+
+
+<!-- Année 2022-2023 -->
+
+
+      <h2> Année 2022-2023</h2>
+      <h3> Quelques documents relatifs aux conférences</h3>
+      <h4> Cycle sur la Prière</h4>
+
+<ul>
+<li> Les charismes, P. Etienne<span style="font-variant:small-caps"> Grenet</span>.</li>
+<li> La piété et la prière mariales, Soeur Marie-Aimée<span style="font-variant:small-caps"> Manchon</span>.</li>
+<li> Introduction au cycle et lectio divina, P. Florent<span style="font-variant:small-caps"> Urfels</span>.</li>
+
+</ul>
+
+
+
+<!-- Année 2021-2022 -->
+
+
+
+      <h2> Année 2021-2022</h2>
+      <h3> Quelques documents relatifs aux conférences</h3>
+
+
+      <h4> Cycle sur la Paix</h4>
+
+<ul>
+
+
+<li> Pax nostra de Gaston Fessard, P. Florent Urfels.</li>
+<li> La douceur dans le christianisme antique, Marie Haushalter-Achet.</li>
+
+</ul>
+
+
+      <h4> Cycle sur la Sainte Eglise</h4>
+
+
+
+<ul>
+
+<li> La synodalité dans l’Église, P. Florent Urfels.</li>
+<li> Eucharistie et Église, Frédérique Poulet.</li>
+<li> L’Écriture Sainte dans la vie de l’Église, Jean-Xavier Lalo.</li>
+<li> L’Église de l’Ancien et du Nouveau Testament, P. Philippe Cazala.</li>
+<li> L’unité de l’Église, Cléophas dans l’Évangile de Luc, P. Marc Rastoin (sj).</li>
+<li> La vocation intellectuelle de la Femme dans l'Eglise par Marie-Gabrielle Lemaire.</li>
+<li> La vocation intellectuelle de la Femme dans l'Eglise par Marie-Gabrielle Lemaire.</li>
+</ul>
+
+
+      <h4> Cycle sur la Sainteté</h4>
+
+<ul>
+<li> Conférence sur la vocation du mariage par Amaury et Elina Freslon.</li>
+<li> Conférence sur la vocation carmélite par la supérieure du carmel de Montmartres.</li>
+<li> Conférence sur la grâce sanctifiante par le Père Florent Urfels.</li>
+<li> Conférence sur la vocation de vierge consacrée par Marie-Capucine de Lambertye.</li>
+<li> Conférence sur la loi de Sainteté par Sylvaine Lacout.</li>
+<li> Conférence sur une vie animée par l'Esprit Saint par Agnès de Lamarzelle.</li>
+<li> Conférence sur la loi de Sainteté par Sylvaine Lacout.</li>
+<li> Conférence sur Saint Joseph par Anne-Catherine Baudoin<span style="font-variant:small-caps"></span>.</li>
+<li> Conférence sur Sainte Mère Thérésa par des missionnaires de la Charité<span style="font-variant:small-caps"></span>.</li>
+<li> Conference sur le Sacerdoce par le Père Olivier <span style="font-variant:small-caps">de Cagny</span>.</li>
+<li> Les martyres de la révolution française et de la Commune par Martin <span style="font-variant:small-caps"> Dumont</span>.</li>
+<li> Introduction au cycle de conférence sur la Sainteté par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+</ul>
+<hr/>
+
+
+
+<!-- Année 2020-2021 -->
+<br/>
+
+      <h2> Année 2020-2021</h2>
+      <h3> Quelques documents relatifs aux conférences</h3>
+      
+      <h4> Cycle sur la pauvreté</h4>
+
+<ul>
+<li> Les pauvres dans l'Évangile par le Père Jean-Philippe <span style="font-variant:small-caps">Fabre</span>.</li>
+<li> Le regard de l'Église sur l'économie capitaliste : peut-elle être une réponse à la pauvreté ? par le Père Jean-Rémi <span style="font-variant:small-caps">Lanavère</span>.</li>
+<li> La doctrine sociale de l'Église et la destination universelle des biens par le Père Augustin <span style="font-variant:small-caps">Bourgue</span>.</li>
+</ul>
+
+      <h4> Cycle "Hérétiques ?"</h4>
+
+<ul>
+<li> Le modernisme par Guillaume <span style="font-variant:small-caps">Cuchet</span>.</li>
+<li> Le quiétisme par le Père Jean-Robert <span style="font-variant:small-caps">Armogathe</span>.</li>
+<li> Le jansénisme par Simon <span style="font-variant:small-caps">Icard</span>.</li>
+<li> Le catharisme par le Père Jean-Christophe <span style="font-variant:small-caps">de Nadaï</span> o.p.</li>
+<li> Luther par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+<li> Le pélagianisme par Jean-Marie <span style="font-variant:small-caps">Salamito</span>.</li>
+<li> L'iconoclasme et Nicée II par le Père Maxime <span style="font-variant:small-caps">Deurbergue</span>.</li>
+<li> L'arianisme et les pneumatomaques par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+<li> La gnose et le manichéisme par Jean-Daniel <span style="font-variant:small-caps">Dubois</span>.</li>
+<li> Nestorianisme, monophysisme et monothélisme par Marie-Odile <span style="font-variant:small-caps">Boulnois</span>.</li>
+</ul>
+
+
+
+      <h4> Cycle sur la Sainte Bible : Ouvrir le Livre</h4>
+
+<ul>
+<li> L'Apocalypse de saint Jean le Père Florent <span style="font-variant:small-caps">Urfels</span>, première partie.</li>
+<li> L'Apocalypse de saint Jean le Père Florent <span style="font-variant:small-caps">Urfels</span>, deuxième partie. (enregistrement incomplet)</li>
+<li> L'Épître aux Galates par le Père Jean-Baptiste <span style="font-variant:small-caps">Arnaud</span>.</li>
+<li> L'Évangile selon saint Marc par le Père <span style="font-variant:small-caps">Dominique</span> c.r.m.d.</li>
+<li> L'Évangile selon Saint Matthieu par Mgr Alexis <span style="font-variant:small-caps">Leproux</span>.</li>
+<li> Le livre de Daniel par le Père Philippe <span style="font-variant:small-caps">Cazala</span>.</li>
+<li> Le livre de Judith par Marie-Françoise <span style="font-variant:small-caps">Baslez</span>.</li>
+</ul>
+
+        <h4> Conférences hors cycle</h4>
+
+<ul>
+<li> L'Épître aux Romains, chapitres 7 et 8, par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+<li> Le Deutéronome, chapitre 1, par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+<li> Le Deutéronome, chapitres 2, 3 et 4, par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+<li> Le Sacré-Coeur par le Père Florent <span style="font-variant:small-caps">Urfels</span>.</li>
+</ul>
+
+
+
+<!-- Année 2019-2020 -->
+
+
+
+<br/>
+      <h2> Année 2019-2020</h2>
+      <h3> Quelques documents relatifs aux conférences</h3>
+      <h4> Cycle sur l'Homme dans la création</h4>
+
+<ul>
+<li>Science et foi dans la crétaion, par Yves <span style="font-variant:small-caps"> Dupont</span>.</li>
+<li>La genèse, regards d'artistes par le Père Maxime <span style="font-variant:small-caps"> Deurbergue </span>.</li>
+<li>L'écologie intégrale par Eugénie le <span style="font-variant:small-caps">Quéré </span>.</li>
+<li>L'écologie et l'ascèse chrétienne par le Père Etienne <span style="font-variant:small-caps">Grenet </span>.</li>
+<li>Le mal naturel par Paul<span style="font-variant:small-caps"> Clavier</span>.</li>
+<li>Le cantique des cantiques par le père Florent <span style="font-variant:small-caps"> Urfels</span>.</li>
+<li>De la création à la nouvelle création par Brigitte <span style="font-variant:small-caps">Cholvy</span>.</li>
+</ul>
+
+
+<!--
+<br/>
+      <h4> Cycle sur ...</h4>
+
+<ul>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+</ul>
+-->
+
+<!--
+<br/>
+      <h4> Cycle sur ...</h4>
+
+<ul>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+<li> <span style="font-variant:small-caps"> </span>.</li>
+</ul>
+-->
+
+
+
+<!-- Année 2018-2019 -->
+
+
+<br/>
+
+      <h2> Année 2018-2019</h2>
+      <h3> Quelques documents relatifs aux conférences</h3>
+      <h4> Cycle sur la Conversion</h4>
+
+<ul>
+<li>Conférence d'introduction au Cycle du Père <span style="font-variant:small-caps">Urfels</span> : conversion extérieure et conversion du cœur (<i>Document à venir</i>).</li>
+<li>La conversion de Marie-Madeleine, par le frère Romaric <span style="font-variant:small-caps">Morin</span> (<i>o.p.</i>).</li>
+<li>La conversion d'Édith Stein, par Vincent <span style="font-variant:small-caps">Aucante</span>.</li>
+<li>La conversion de Paul <span style="font-variant:small-caps">Claudel</span> et de Joris K. <span style="font-variant:small-caps">Huysmans</span>, par Dominique <span style="font-variant:small-caps">Millet-Gérard</span> (<a href="conf/conf_Claudel_Huysmans.html">Conférence publique</a>).</li>
+<li>La conversion des époux Maritain, par Florian <span style="font-variant:small-caps">Michel</span>.</li>
+<li>Le récit de sa conversion par le Père René <span style="font-variant:small-caps">Luc</span></li>
+<li> La conversion de saint Paul par le Père Eric <span style="font-variant:small-caps">Morin</span>.</li>
+</ul>
+
+      <h4> Conférences sur saint Paul</h4>
+<ul>
+<li>Introduction au Cycle sur saint Paul par le Père <span style="font-variant:small-caps">Urfels</span> par une méditation spirituelle de l'Épître aux Galates</li>
+<li>L'Eglise, corps du Christ chez saint Paul, par le Père Francis <span style="font-variant:small-caps">de Chaignon</span>.</li>
+<li>Les charismes chez saint Paul, par le Père Olric <span style="font-variant:small-caps">de Gélis</span>.</li>
+<li>L'hymne à la Charité par le père Marc Rastoin.</li>
+<li>Témoignage de la sœur Alexandra Fricker sur sa communauté religieuse Pointcœur.</li>
+<li>Saint Pierre et saint Paul par le père Henry de Villefranche.</li>
+</ul>      
+
+	<h4> Conférences sur l'incarnation </h4>
+
+<ul>
+<li>Qu'est-ce qu'être vivant par Olivier <span style="font-variant:small-caps">Rey</span>.</li>
+<li>Le souffle dans le chant grégorien par Louis-Marie <span style="font-variant:small-caps">Vigne</span></li>
+<li>Méditation sur la sainteté redoutable de Dieu par Michael <span style="font-variant:small-caps">Edwards</span>, de l'Académie.</li> 
+</ul>
+
+	<h4>Conférences hors Cyles</h4>
+
+<ul>
+<li>Le saint Suaire de Turin, par Bétrice <span style="font-variant:small-caps">Guespereau</span>
+de l'association « Montre-nous ton visage » (<i>conférence inter-aumônerie</i>).</li>
+</ul>
+
+	   <h4>Enregistrements des concerts</h4>
+	  
+<ul>
+<li>Abendlied, Josef <span style="font-variant:small-caps">Rheinberger</span>.</li>
+<li>Ave Verum, Edward <span style="font-variant:small-caps">Elgard</span>.</li>
+<li>Toccata et fugue en fa majeur, Dietrich <span style="font-variant:small-caps">Buxtehude</span>.</li>
+<li>Cantique de Jean Racine, Gabriel <span style="font-variant:small-caps">Fauré</span>.</li>
+<li>Jesu Rex Admirabilis, Giovanni Perluigi da<span style="font-variant:small-caps">Palestrina</span>.</li>
+<li>Pastorale, Josef <span style="font-variant:small-caps">Rheinberger</span>.</li>
+<li>Sicut Cervus, Giovanni Perluigi da<span style="font-variant:small-caps">Palestrina</span>.</li>
+<li>Ubi caritas, Ola <span style="font-variant:small-caps">Gjeilo</span>.</li>
+<li>Salve Regina, Roger <span style="font-variant:small-caps">Calmel</span>.</li>
+<li>Osseh Shalom, chant traditionnel juif.</li>
+<li>Psaume 94.</li>
+<li>Psaume 21.</li>
+<li>Psaume 71.</li>
+<li>Prélude et fugue en do mineur, Félix <span style="font-variant:small-caps">Mendelssohn</span>.</li>
+<li>God be with you.</li>
+<li>Hymne des chérubins, chant de la liturgie orthodoxe.</li>
+<li>O salutaris hostia, Pawel<span style="font-variant:small-caps"> Bebenek</span>.</li>
+<li>O Clemens, Clément <span style="font-variant:small-caps">Binachon</span> et David <span style="font-variant:small-caps">Perrin</span>.</li>
+<li>Priez pour paix, Francis <span style="font-variant:small-caps">Poulenc</span>.</li>
+</ul>
+
+ <br/>
+ <hr/>
+
+
+<!-- Année 2017-2018 -->
+
+      <h2>Année 2017-2018</h2>
+      <h3>Quelques documents relatifs aux conférences</h3>
+      <h4>Cycle sur la Famille</h4>
+
+<ul> <li>La famille à l'origine (Père Florent Urfels)</li>
+<li>Conférence du père Olivier Artus sur Joseph ou l'invention de la fraternité (mp3)</li>
+<li>Conférence du père Philippe Fabre sur la famille selon le nouveau Testament (mp3)</li>
+<li>Conférence du père Thierry-Dominique Humbrecht sur la famille dans tous ses états (mp3)</li>
+<li>Conférence de Michel Zink sur la famille dans la littérature courtoise (mp3)</li>
+<li>Témoignage de Yves et Marie-Madeleine de Brunhoff (mp3)</li>
+<li>Conférence de Laetitia Calmeyn sur la théologie du corps (mp3)</li>
+</ul>
+
+      <h4>Cycle sur saint Augustin</h4>
+<ul>
+<li>Conférence d'Emilie Tardivel sur l'augustinisme politique (mp3)</li>
+<li>Conférence de Pierre Descotes sur la grâce chez saint Augustin (mp3)</li>
+<li><a href="../talatex/1718/conf/MARION_Que_confesse_Augustin.MP3">Conférence publique de Jean-Luc Marion sur l'interprétation des <i>Confessions</i>
+"Que confesse saint Augustin ?" (mp3)</a></li>
+<li>Conférence du Père de Nadaï sur la  controverse avec les donatistes et notamment sur la question du baptême (mp3)</li>
+<li>Conférence du Père de Vidalin sur le <i>De Trinitate</i> d'Augustin (mp3)</li>
+</ul>
+
+      <h4>Cycle sur l'apologétique</h4>
+<ul>
+<li>Conférence de Laurent Thirouin sur l'apologétique de Pascal (mp3)</li>
+<li>Conférence du Père Fédou sur les Pères apologètes (mp3)</li>
+<li>Conférence de Frédéric Guillaud sur la théologie rationnelle et les arguments en faveur de l'existence de Dieu (mp3)</li>
+<li>Conférence du Père Grenet sur l'Evangilisation (de rue) (mp3)</li>
+</ul>
+
+      <h4>Conférences du père Urfels</h4>
+<ul> <li>Introduction littéraire et spirituelle au Psautier</li>
+<li> Enseignement du père Urfels à ChrétiENS</li>
+<li>Enseignement du père Urfels au week-end de Carême</li>
+<li>Poème "The dream of the rood" cité dans l'enseignement du week-end de Carême</li>
+<li>Conférence du père Urfels sur "Le Dieu de Moïse est-il le Dieu des philosophes?"</li>
+</ul>
+
+      <br/>
+      <hr/>
+     
+
+<!-- Année 2016-2017 -->
+
+      <h2>Année 2016-2017</h2>
+      <h3>Quelques documents relatifs aux conférences</h3>
+      <h4>Cycle sur l'Education</h4>
+
+<ul>
+<li>Grâce à l'Education (Père Florent Urfels)</li>
+<li>Conférence d'Olivier Rey sur Ivan Illich et la question de l'éducation dans sa pensée (mp3)</li>
+<li>Conférence d'Isabelle Bochet sur la culture gréco-romaine et son rapport à  à la formation chrétienne chez saint Augustin (mp3)</li>
+<li>Exposé devant les Conférences épiscopales d'Asie du cardinal Ratzinger au sujet du défi de la culture p pour la religion chrétienne.
+<br/>Document préparatoire à la conférence de François-Xavier Bellamy</li>
+<li>Conférence de François-Xavier Bellamy sur la question de la transmission de la culture judéo-chrétienne</li>
+<li>Conférence de Keith Beaumont (c.o) au sujet de <i>L'idée d'Université du Cardinal Newman</i></li>
+<li>Conférence de Marguerite Léna au sujet de l'éducation chez saint Ignace de Loyola (mp3)</li>
+<li>Conférence de Jacques Arènes sur la crise de l'autorité (mp3)</li>
+<li>Conférence de Jean-François Chemain sur l'Éducation en ZEP (mp3)</li>
+<li>Conférence d'Irène Fernandez sur le rôle des images dans l'Éducation chez C.S. Lewis (mp3)</li>
+</ul>
+
+     <h4>Cycle sur l'Histoire de l'Église</h4>
+
+<ul>
+<li>Conférence publique de Jean-Marie Salamito et de Vincent Zarini au sujet de la publication dans la Pléiade des <i>Premiers écrits chrétiens </i></li>
+<li>Conférence du Pasteur Alain Joly à l'occasion des 500 ans de la Réformation (mp3)</li>
+<li>Conférence de l'ancien aumônier de l'ENS, le Père Jean-Robert Armogathe, au sujet du jansénisme et de Port-Royal (mp3)</li>
+</ul>
+
+     <h4>Cycle sur saint Thomas d'Aquin</h4>
+<ul>
+<li>Conférence du Père Urfels pour nous introduire au climat intellectuel de saint Thomas d'Aquin : "Des Écoles aux universités"</li>
+<li>Conférence d'Emmanuel Brochier au sujet de l'épistémologie de saint Thomas</li>
+<li>Conférence du Père Olivier-Thomas Vénard sur l'aspect littéraire de l'écriture de saint Thomas</li>
+<li>Conférence du Père François Daguet au sujet du politique chez saint Thomas</li>
+<li>Conférence du Père de Nadaï sur le Dieu de saint Thomas</li>
+</ul>
+
+     <h4>Cycle sur l'Evangile selon saint Luc par le père Henry de Villefranche</h4>
+<ul>
+<li>1e conférence : Introduction à l'Evangile selon saint Luc : Témoin et serviteur</li>
+<li>2e conférence : Le ministère galiléen</li>
+<li>3e conférence : La dissémination de l'Eschatologie pascale</li>
+</ul>
+
+<h3>D'autres documents importants</h3>
+<ul>
+<li>Enseignement du Père pour le week-end de rentrée</li>
+<li>Réflexion du Père autour du sujet du premier Sénevé de l'année 2016-2017 "Amour et Vérité"</li>
+<li>Catéchèse du Père Urfels au sujet de la Trinité</li>
+<li>Enseignement du Père Urfels à l'occasion du week-end de Carême</li>
+</ul>
+
+     
+      <br/>
+      <hr/>
+
+
+<!-- Année 2015-2016 -->
+
+      <h2>Année 2015-16</h2>
+      <h3>Quelques documents relatifs aux conférences :</h3>
+      <h4>Cycle Dieu et la Science</h4>
+
+<ul>      
+<li>Je ne crois pas en Dieu, je crois en la Science 1 (Père Florent Urfels)</li>
+<li>Je ne crois pas en Dieu, je crois en la Science 2 (Père Florent Urfels)</li>
+<li>Je ne crois pas en Dieu, je crois en la Science 3 (Père Florent Urfels)</li>
+<li>Texte de la conférence de Gérard Donnadieu sur Teilhard de Chardin</li>
+<li>Conférence de Gérard Donnadieu sur Teilhard de Chardin (mp3)</li>
+<li>Annexe de la conférence de Gérard Donnadieu sur Teilhard de Chardin</li>
+<li>Conférence publique sur l'encyclique Laudato Si (mp3)</li>      
+<li>Conférence de Rémi Sentis sur le rôle du scientifique chrétien (mp3)</li>
+<li>Quelques éclaircissements sur le caractère "personnaliste" de la vérité (Mgr Melina)</li>
+<li>Conférence de François Euvé sur le darwinisme (mp3)</li>
+</ul> 
+
+      <h4>Mini cycle œcuménisme</h4>
+
+<ul>
+<li>Conférence de Jane Stranz sur l'œcuménisme (mp3)</li>
+</ul>
+
+      <h4>Cycle Henri de Lubac</h4>
+
+<ul>
+<li>Conférence de Brigitte Cholvy sur La biographie d'Henri de Lubac (mp3)</li>   
+<li>La querelle du surnaturel (Père Florent Urfels)</li>
+<li>Conférence de Mgr de Moulins-Beaufort sur le Drame de l'Humanisme Athée (mp3)</li>
+</ul>
+
+      <h4>Cycle Vocation chrétienne de la France</h4>
+<ul>
+<li>Conférence du Père Louzeau sur la vocation d'une nation selon le Père Fessard (mp3)</li>
+<li>Échanges avec Rémi Brague sur la vocation des intellectuels chrétiens (mp3)</li> 
+</ul>
+   
+      <h3>D'autres documents importants :</h3>
+      <ul>
+
+<li>Enseignements du père pour le week-end de carême</li>        
+<li>Baptême et Salut (Père Florent Urfels)</li>
+      </ul>
+
+
+      <br/>
+      <hr/>
+
+<!-- Année 2014-2015 -->
+
+      <h2>Année 2014-15</h2>
+      <h3>Quelques éléments de réflexions et des prises de notes :</h3>
+      <ul>
+    	<li>Thème 14-15 (PDF)</li>
+    	<li>Programme 14-15 (PDF)</li>
+    	<li>Réflexion sur l'accomplissement des Écritures (PDF)</li>
+    	<li>Réflexion sur la Lectio Divina (PDF)</li>
+    	<li>Réflexion sur les Prophéties (PDF)</li>
+    	<li>Prises de notes sur le péche orignel (WORD)</li>
+    	<li>Prises de notes sur le péche orignel (PDF)</li>
+    	<li>Prises de notes sur les reliures (WORD)</li>
+    	<li>Prises de notes sur les reliures (PDF)</li>
+      </ul>
+      <hr/>
+
+
+<!-- Année 2013-2014 -->
+
+      <h2>Année 2013-14</h2>
+      <h3>Textes étudiés lors de la retraite vacancière remplaçant le pélé :</h3>
+      <ul>
+    	<li>Fides et Ratio (WORD)</li>
+    	<li>Fides et Ratio (PDF)</li>
+    	<li>Carnet (PDF)</li>
+    	<li>Carnet (PDF)</li>
+    	<li>Clément d'Alexandrie (PDF)</li>
+    	<li>Écriture et Sagesse (PDF)</li>
+    	<li>L'Action (PDF)</li>
+      </ul>
+      <h3>Textes étudiés lors des groupes de lectures :</h3>
+      <p>
+      Documents introductifs écrits par <a href="../html/aumonier.html">Florent URFELS</a> :
+      <ul>
+    	<li>Biblio (version Words)</li>
+    	<li>Biblio (version PDF)</li>
+      </ul>
+      <ul>
+    	<li>Modernisme (version Words)</li>
+    	<li>Modernisme (version PDF)</li>
+      </ul>
+    </p>
+      <br/>
+      <p>
+      <i>L'Évangile et l'Église </i>, Alfred Loisy :
+      <ul>
+    	<li>Version BNF</li>
+    	<li>Version plus légère</li>
+    	<li>Introduction</li>
+    	<li>Chapitre 1 : Le royaume des cieux</li>
+    	<li>Chapitre 2 : Le Fils de Dieu</li>
+    	<li>Chapitre 3 : L'Église</li>
+    	<li>Chapitre 4 : Le dogme chrétien</li>
+    	<li>Chapitre 5 : Le culte catholique</li>
+    	<li>Mention légales</li>
+      </ul>
+    </p>
+      <br/>
+      <p>
+      <i>De l'esprit et de la lettre</i>, saint Augustin :
+      <ul>
+    	<li>Français</li>
+    	<li>Latin</li>
+    	<li>Bilingue</li>
+      </ul>
+      Ces pdf ont été compilés dans la précipitation, merci de nous contacter si vous trouvez des coquilles.
+    </p>
+      <br/>
+      <hr/>
+
+<!-- Documents diverses -->
+
+      <h3>Notes de la conférence d'Oliver REY</h3>
+      <p>
+    <ul>
+	<li>Le Testament de MELVILLE - introduction (.pdf)</li>      
+	<li>Le Testament de MELVILLE - introduction (.doc)</li>      
+    </ul>
+    <ul>
+	<li>Mythe et logique (.pdf)</li>
+	<li>Mythe et logique (.doc)</li>      
+    </ul>
+    </p>
+      <br/>
+      <h3>La Lumière de Joseph THIROUIN</h3>
+      <p>
+      Suite à la demande de certains talas voici les <a href="../talatex/la_lumière_brillera/la_lumiere.pdf">partitions du chant</a>. 
+    </p>
+      <br/>
+      <h3>Notes prises lors de conférences du jeudi soir</h3>
+      <p>
+    Ces notes sont de simples notes, jugez les avec clémence.
+    <ul>
+	<li> Conférence du 10 octobre 2013 de Matthieu Rouger ancien aumônier des parlementaires</li>      
+    </ul>
+    </p>
+   
+    <br/>
+    <hr/>
+    <p>
+     Une très vieille page qui date du temps où les princes dispensaient des cours de LaTeX : Talatex
+    </p>
+    <br/>
+ </texte>
+
+</page>

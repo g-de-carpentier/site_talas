@@ -1,0 +1,335 @@
+/*miseenpage2.css*/
+
+/* Ce fichier est destinÃ© Ã  la mise en page de la majoritÃ© des pages. On y trouve notamment tous les Ã©lÃ©ments qui composent la page index.html/index.xml.*/
+
+
+/*	ArriÃ¨re-plan clair , #BDD2E0 rgb(189, 210, 224)
+	Couleur boÃ®te: #0A307C rgb(10, 48, 124)
+	Ombre sombre boÃ®te de dialogue : 385D8A, R: 56, G: 93, B: 138; */
+
+body {
+	font-family: Garamond, Times, serif;
+	background-color: #B5CBD7;
+	text-align: justify;
+	margin-right: 20px;
+}
+	
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;	
+}
+	
+/* Le style suivant permet la "boÃ®te" dans laquelle se trouve le logo de l'aumÃ´nerie et le titre de la page ; les -moz et -webkit s'assurent de la compatibilitÃ© Firefox/Chrome de la page web */
+
+.entete {
+	background-color: #0A307C;
+	font-family: Verdana, sans-serif;
+	text-align: center;
+	color: #fff;
+	font-size: 28px;
+	padding: 25px;
+	margin-left: 200px;
+	text-shadow: 3px 3px 2px #555;
+	border-radius: 			10px;
+	-moz-border-radius:		10px;
+	-webkit-border-radius:	10px;
+	box-shadow: 		4px 4px 0px 0px #555;
+	-moz-box-shadow: 	4px 4px 0px 0px #555;
+	-webkit-box-shadow: 4px 4px 0px 0px #555;
+}
+
+.entete a {
+	text-decoration:none;
+}
+
+.entete a:hover{
+	text-decoration: none;
+}
+.navhaut {
+	background-color: #5184C4;
+	margin-left: 205px;
+	border-radius: 20px;
+	text-align: center;
+	color: #FFFFFF;
+	padding:10px;
+	width: 85%;
+	float:right;
+}
+	
+.navhaut table {
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	float: right;
+	padding: 5px;
+	width: 99%;
+	border-collapse: separate;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	border-radius: 45px;
+	-moz-border-radius: 45px;
+	-webkit-border-radius: 45px;
+	margin-right: 5px;
+	margin-left: 10px;
+	table-layout: auto;
+	}
+
+.navhaut table a {
+	color:#FFFFFF;
+	text-decoration:none;
+	display: block;
+	}	
+
+.navhaut table a:hover {
+	text-decoration: underline overline;
+}
+
+#epigraphe{
+	padding: 5px;
+	text-align: right;
+	margin-left: 75%;
+	margin-bottom:12px;
+	font-size: 16px;
+}
+	
+#slide{
+	position: relative;
+	left: 5%;
+	right:0px;
+	top: 20px;
+	min-width: 50%;
+	max-width: 85%;
+	height: 503px;
+	margin-bottom: 30px;
+	overflow: hidden;
+	display: block;
+}
+	
+#slide img{
+	right:54%;
+	float:left;
+	padding: 0px;
+/*	width: 53.45%;*/
+	height: 100%;
+	max-width: 54%;
+	display: block;
+	position: absolute;
+	border-radius: 20px 0 0 20px;
+}
+
+#slide .legend{
+	background-color: #73A2B6;
+	display: inline;
+	float:right;
+	position: absolute;
+	left: 46%;
+	height: 100%;
+	max-width: 40%;
+	padding: 0px;
+	border-radius: 0 20px 20px 0;
+}
+
+/* #backgroundlegend{
+	background-color: #73A2B6;
+	display: block;
+	float:right;
+	position:absolute;
+	left:54%;
+	width: 30%;
+	height: 92%;
+	margin: 8px;
+	margin-left:0px;
+	padding: 8px;
+	padding-left: 16px;
+	border-radius: 0 20px 20px 0;
+	-moz-border-radius: 0 20px 20px 0;
+}*/
+	
+#slide .legend .titreslide{
+	text-align: center;
+	font-size: 28px;
+	color:white;
+	margin-right: 3px;
+	margin-top: 12px;
+	margin-bottom:40px;
+}
+
+#slide .legend .titreslide a{
+	color: white;
+	text-decoration: none;
+}
+
+#slide .legend .titreslide a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+#slide .legend .texteslide{
+	text-align: justify;
+	font-size: 18px;
+	margin-left: 18px;
+	padding-right:18px;
+	color: white;
+	}
+	
+.navside	{
+	width: 130 px;
+	padding: 7 px;
+	margin-top: 5px;
+	margin-bottom: 5px ;
+	text-align: center;
+	font-family: "Helvetica Neue", "Times", sans-serif;
+	font-size: 15px;
+	float: left;
+	position: relative;
+	display:inline;
+/*	left: 0px;
+	top: 340px;*/
+}
+
+.navside a {
+	display: inline;
+	padding: 4px;
+	padding-right: 4px;
+	padding-left: 4px;
+	margin: 6px;
+	font-size: 15px;
+	color: #000;
+	text-decoration: none;
+}
+
+.navside a:hover {
+	text-decoration: underline overline;
+	color:#000;
+}
+
+
+a {
+    text-decoration : underline;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+#actualites{
+	background-color:#5184C4;
+	display: inline-block;
+	margin-right: 10px;
+	width: 350px;
+	height:370px;
+	clear:none;
+	float:left;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+}
+
+#actualites .titre{
+	font-family: Futura, Georgia, Century, Garamond, serif;
+	color: white;
+	font-size: 22px;
+	text-align:center;
+	padding-top: 15px;
+	margin-bottom: 30px;
+}
+
+#actualites .titre a{
+	color: white;
+}
+
+#actualites. titre a:hover{
+	text-decoration:none;
+	color:white;
+}
+
+#actualites ul {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+#actualites ul li {
+	font-family: Futura, Georgia, Century, Garamond, serif;
+	color: white;
+	text-align:center;
+	font-size: 15px;
+	padding: 3px;
+	padding-right: 60px;
+	}
+	
+#actualites ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+#actualites ul li a:hover{
+	color:white;	
+	text-decoration: underline;
+}
+
+.texteaccueil {
+	padding: 5px;
+	padding-top: 10px;
+	margin-left: 15px;
+	margin-right: 2%;
+	text-indent: 10px;
+	font-size: 17.5px;
+	font-weight: bold;
+	display:inline;
+	position: relative;
+	text-indent:18px;
+}
+
+.texte {
+	padding:5px;
+	padding-top: 10px;
+    margin-top:50px;
+	margin-right: 2%;
+    margin-left: 17%;
+    text-indent: 10px;
+    font-size: 17.5px;
+    font-weight: bold;
+    display:block;
+    position: relative;
+}
+
+.p {
+	padding: 0px;
+	margin-top: 0px;
+	
+	}
+	
+.imageleft {
+	float: left; 
+	margin: 0 6px 0 0;
+}
+
+.imageright {
+	float: right;
+}
+
+#Annonces {
+	margin-left: 20%;
+	margin-right: 3%;
+	font-family: Futura, Verdana, sans-serif;
+	line-height: 22px;
+}	
+	
+.pieddepage {
+	background-color: #3D6599;
+	text-align: center;
+	padding: 5px;
+	border-radius: 10px ;
+	-moz-border-radius: 10px ;
+	-webkit-border-radius: 10px ;
+	box-shadow: 4px 4px 0 #555 ;
+	-moz-box-shadow: 3px 3px 2px #555 ;
+	-webkit-box-shadow: 3px 3px 2px #555 ;
+	position:relative;
+	clear: both;
+	}
